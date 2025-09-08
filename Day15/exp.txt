@@ -1,0 +1,30 @@
+how to create a class  -
+keyword named class
+class ClassName:
+    pass        # we don't have any class variables, instance variables, methods
+
+how to create an object/ or instance to the class
+
+if class don't have any constructor with parameters(__init__)
+obj = ClassName()
+
+if class have constructor with parameters(__init__)
+obj = ClassName(p1,p2,p3,...)
+
+
+self is default parameter for the methods/function defined in the class
+
+
+OOPS Principles:
+Inheritance
+    this can help in avoiding code duplication
+    class A & class B
+
+    Single level  (Parent, Child)   class Child(P1):
+    Multiple    (Child invoking two parent's properties)  class Child(P1,P2,P3):
+    Multilevel
+    Hierarchial Parent  C1 C2 C3
+    Hybrid
+
+
+    super

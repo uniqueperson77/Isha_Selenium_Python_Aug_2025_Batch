@@ -1,0 +1,47 @@
+Keywords
+
+for is is not not and or
+
+a=10
+is = 10
+
+Conditional
+
+simple if			
+if (condition):
+	st1
+	st2
+	st3
+
+short hand if
+if condition: st1
+
+if-else
+
+if con:
+	code1
+else:
+	code2
+	
+marks >=35: D
+ >35 and <=50 : C
+ >50 and <=75 : B
+ >75 : A
+ 
+ nested if-else
+ 
+if con1:
+	code1
+
+elif con2:
+	code2
+elif con3:
+	code3
+else:
+	code4
+
+
+
+
+
+

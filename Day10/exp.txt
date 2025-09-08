@@ -1,0 +1,8 @@
+external files:
+txt, csv, xls, xml, json
+
+text files:
+create file -
+write data to file - w
+read the data from file - r
+appending the data to file - a

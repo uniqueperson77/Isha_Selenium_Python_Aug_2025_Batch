@@ -1,0 +1,7 @@
+1. remove duplicates from list  (sample input: l=[2,4,10,8,6,6,8,10,'Isha','ISHA','Isha'])
+2. sum of digits in a string    (sample input : s="1245789654560")
+3. multiplication of digits in a string    (sample input : s="1245789654560")
+4. occurrence of each character from a given string  (sample input : s="Universe is too large.")
+5. largest number from an array/ a list (sample input: l=[2,4,10,8,6,6,8,10,255,122,10])
+6. second largest number from an array/ a list (sample input: l=[2,4,10,8,6,6,8,10,255,122,10])
+7. smallest number from an array/ a list (sample input: l=[2,4,10,8,6,6,8,10,255,122,10])

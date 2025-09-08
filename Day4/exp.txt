@@ -1,0 +1,27 @@
+loops-
+    while
+    for
+
+
+while (condition):
+    st-1
+    st-2
+    st-3
+
+print("outside the while block")
+
+Dog - 10 times
+
+
+for variable in range(start,stop):   1,10       # iterating by index
+    code inside for block
+
+code outside for block
+
+
+start is inclusive
+stop is excluded
+
+
+
+int(), str(), float()

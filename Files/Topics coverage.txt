@@ -1,0 +1,55 @@
+Day1:
+python application to be installed into our system
+VS Code, PyCharm
+Python basics
+
+Day2:
+Operators
+
+Day3:
+Conditional statements 
+
+Day4:
+Loops - while & for
+
+
+Day5:
+strings
+
+Day6:
+Lists, loops
+
+Day7:
+recap, tuples & hands_on
+
+Day8:
+dict, sets
+
+Day9:
+functions topic + *args  **kwargs
+
+Day10:
+file handling - txt files
+try exception
+
+Day11:
+openpyxl
+
+Day12:
+pyodbc for excel handling
+
+
+Day13:
+pymysql  or mysql.connector  to connect to mysql server db's
+
+Day14:
+OOPS Introduction
+
+Day15:
+Recap of OOPS & Inheritance
+
+Day16:
+Inheritance + Polymorphism
+
+Day17:
+API , POSTMAN, REST API and usage

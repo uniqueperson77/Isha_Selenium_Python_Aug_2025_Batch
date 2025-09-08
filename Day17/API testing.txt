@@ -1,0 +1,37 @@
+to test any API - we need a 3rd part tool - SOAP UI, Postman
+
+SOAP		.xml files
+REST		.json files
+
+
+endpoints, wsdls, urls, mediators
+
+
+requests  - pip install requests
+
+get
+post
+put  - updating the existing record
+patch - 
+delete
+
+
+http://127.0.0.1:8000/api/bowlers/
+http://127.0.0.1:8000/api/bowlers/3/
+
+django 
+
+
+read/write operations on .json file
+
+json.load		= file obj & converts to python obj (dict or list)
+loads		= string obj conerts to python object
+
+dump		python obj to file obj
+dumps		python obj to str obj
+
+
+
+automate API testing in python using requests
+
+

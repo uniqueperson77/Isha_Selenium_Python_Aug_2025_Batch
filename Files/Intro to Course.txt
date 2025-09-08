@@ -1,0 +1,99 @@
+Software testing:
+
+
+Types:
+
+Manual - without any automation tool if we perform testing
+
+Automation - Selenium, UFT/QTP
+
+
+Software Applications:
+
+Desktop app
+Mobile app
+Web app
+
+
+Methodologies:
+
+Unit - individual component testing
+Functional - behavior of the component
+Regression - if there is a change in componentlevel - it should not affect existing behaviorot software
+Retest
+
+
+
+Flipkart
+	SignIn
+	SignUp
+	Forgot Password
+	Checkout
+	Payment - dev team improves functionality 
+	
+	
+	
+Lower or Test env's/servers
+
+ST1, ST2, ST3, ST4,
+COB1,..
+
+
+pro's on Automating
+
+Time saving
+detailed validations - defect free
+efforts will be reduced
+
+con's:
+It supports only web appications
+1000 test cases - 10 mins*1000 = 10,000 mins*1000
+
+parallel testing - 1000 mins
+
+Python basics - OOPS
+file handling (txt,xml, json,excel,csv)
+
+
+
+Selenium:
+Open-source
+supports multiple prog lanuages:  Java, Python, C++, C#,...
+platfrom independent - Windows, Linux, mac,...
+
+
+Selenium components:
+
+RC
+Webdriver - complex cases
+IDE - simple cases  (Record, capture & playback)
+Grid - parallem execution
+
+pytest - 
+pytest-html
+
+documentations
+recordings
+hands-on
+doubts can be clarified
+
+
+
+API testing - request & response handling
+DB - testing
+
+
+basics of git & github (cloud)
+
+jenkins (schedule jobs using CI/CD )
+
+
+
+
+
+
+
+	
+
+
+

@@ -1,0 +1,25 @@
+1.Write a program that reads a .txt file and counts the number of:
+Lines
+Words
+Characters
+
+2.Write a script to find a specific word in a .txt file and replace it with another word. Save the result in a new file.
+
+3.Write a Python script that reads a .txt file and creates a new file with all blank lines removed.
+
+4.Read a .txt file and write its content in reverse order (line by line) to a new file.
+
+5.Create a new file where each line of the original .txt file is prefixed with its line number.
+
+6.Write a program that takes two .txt files and merges their content into a third file, line by line (alternating between each file).
+
+7.Read a .txt file and display the top 10 most frequently occurring words, ignoring case.
+
+8.Generate a summary report of a .txt file containing:
+Total lines
+Total words
+Average word length
+Longest word
+Shortest word
+
+9.Read a .txt file and write all lines that are palindromes (ignoring spaces and case) to a new file.

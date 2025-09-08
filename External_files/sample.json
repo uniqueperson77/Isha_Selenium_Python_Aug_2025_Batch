@@ -1,0 +1,14 @@
+{"response":
+    {
+        "id": 1,
+        "name": "Sachin",
+        "age": 27,
+        "country": "INDIA",
+        "wickets_taken": 20,
+        "bowling_average": 100.0,
+        "bowling_strikerate": 50.0,
+        "economy_rate": 8.33
+    }
+
+
+}
