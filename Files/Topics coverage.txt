@@ -53,3 +53,48 @@ Inheritance + Polymorphism
 
 Day17:
 API , POSTMAN, REST API and usage
+
+Day18:
+Handling json files
+
+Day19:
+API Automation using requests library
+
+Day20:
+Selenium
+
+pl - python
+selenium - libraray  - installed
+webdriver - 1st way
+browsers - chrome, edge, safari,...
+
+
+Day21:
+
+input box, buttons - radio/checkboxes
+
+
+Day22:
+Select
+
+Day23:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OOPS: Encapsulation & abstraction

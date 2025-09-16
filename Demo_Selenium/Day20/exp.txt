@@ -1,0 +1,26 @@
+text fields  - expects data/keys from keyboard
+
+buttons (radio, checkboxes) - clickable
+
+dropdown - select one or more options from this dropdown
+
+
+
+
+Locators:
+identify an element in many ways
+
+id
+name
+tag_name
+class_name
+link_text
+partial_link_text
+xpath		
+css_selector
+
+
+
+driver_obj.get(url)
+
+driver_obj.find_element(By.XPATH,first_name_locator)

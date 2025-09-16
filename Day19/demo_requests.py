@@ -36,4 +36,4 @@ def rest_post():
 
 
 # rest_post()
-rest_get()
+# rest_get()

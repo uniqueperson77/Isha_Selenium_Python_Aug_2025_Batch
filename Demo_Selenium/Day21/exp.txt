@@ -1,0 +1,68 @@
+driver = webdriver.Chrome()
+
+
+driver
+.maximize_window()
+
+
+.get(url)
+
+
+.find_element(By.ID,value)				By.XPATH, By.NAME, 	# returns us only 1 web_element
+
+.find_elements(By.XPATH,"//input[@type='checkbox']")
+
+
+
+<input type="checkbox" id="checkbox1" value="Cricket">		
+<input type="checkbox" id="checkbox2" value="Movies">
+<input type="checkbox" id="checkbox3" value="Hockey">
+
+id			checkbox1
+name	X
+tag_name		input
+class_name			X
+link_text				X			<a href="www.google.com">Google Wesite</a>
+partial_link_text		X
+xpath		- 						absolute & relative	  //tag_name[@attrib_name='value']	
+css_selector												tag_name[attrib_name='value']
+
+
+//input[@type='checkbox']
+
+//input[@id='checkbox1']
+
+//input[@value='Cricket']
+
+input[value='Cricket']
+
+
+
+Web_elements
+
+.clear()
+.send_keys(value)
+
+.click()
+
+
+
+
+##select
+
+
+manual - way click on that dropdown area, dd will be visible and click on some value 
+
+selenium Select
+
+
+//tag_name[text()='Catalan']
+
+//a[text()='Catalan']
+
+
+
+
+
+
+

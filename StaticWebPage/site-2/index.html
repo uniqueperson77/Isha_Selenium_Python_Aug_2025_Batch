@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice Webpage for Selenium Automation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Practice Webpage for Selenium Automation</h1>
+        <p>Test your Selenium skills by interacting with these elements!</p>
+    </header>
+
+    <section id="buttons">
+        <h2>Buttons</h2>
+        <button id="simpleBtn">Simple Button</button>
+        <button id="alertBtn" onclick="alert('Button Clicked!')">Alert Button</button>
+    </section>
+
+    <section id="forms">
+        <h2>Forms</h2>
+        <form id="userForm">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" placeholder="Enter Username" required>
+            <br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Enter Email" required>
+            <br><br>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" placeholder="Enter Password" required>
+            <br><br>
+            <button type="submit">Submit Form</button>
+        </form>
+    </section>
+
+    <section id="checkboxes">
+        <h2>Checkboxes</h2>
+        <label>
+            <input type="checkbox" id="agree" name="agree">
+            I agree to the terms and conditions.
+        </label>
+	<label>
+            <input type="checkbox" id="disagree" name="disagree">
+            I disagree to the terms and conditions.
+        </label>
+    </section>
+
+    <section id="radio">
+        <h2>Radio Buttons</h2>
+        <label>
+            <input type="radio" name="gender" value="male" > Male
+        </label>
+        <label>
+            <input type="radio" name="gender" value="female" checked> Female
+        </label>
+		<label>
+            <input type="radio" name="gender" value="LGBTQ" > LGBTQ
+        </label>
+    </section>
+
+    <section id="dropdown">
+        <h2>Dropdown</h2>
+        <select id="fruit">
+            <option value="apple">Apple</option>
+            <option value="banana">Banana</option>
+            <option value="cherry">Cherry</option>
+        </select>
+    </section>
+
+    <section id="table">
+        <h2>Table</h2>
+        <table border="1">
+            <tr>
+				<th>Select</th>
+				<th>Name</th>
+                <th>Age</th>
+                <th>Country</th>
+				<th>Bio Links</th>
+				<th>Comments</th>
+            </tr>
+            <tr>
+				<td><input type="checkbox" id="box"></td>
+                <td>John Doe</td>
+                <td>25</td>
+                <td>USA</td>
+				<td><a href="">Link</a></td>
+				<td><input type="text" id="EditField"></td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" id="box"></td>
+				<td>Jane Smith</td>
+                <td>30</td>
+                <td>Canada</td>
+				<td>
+					<a href="https://www.amazon.in/" target="_blank">Link</a><br>
+					<a href="https://www.google.com" target="_blank">Link2</a>
+				</td>
+				<td>
+					<input type="text" id="EditField"><br>
+					<input type="text" id="EditField">
+				</td>
+            </tr>
+			<tr>
+                <td><input type="checkbox" id="box"></td>
+				<td>Sachin</td>
+                <td>35</td>
+                <td>Germany</td>
+				<td><a href="">Link</a></td>
+				<td><input type="text" id="EditField"></td>
+            </tr>
+			<tr>
+                <td><input type="checkbox" id="box"></td>
+				<td>Guru</td>
+                <td>25</td>
+                <td>USA</td>
+				<td><a href="">Link</a></td>
+				<td><input type="text" id="EditField"></td>
+            </tr>
+			<tr>
+                <td><input type="checkbox" id="box"></td>
+				<td>Abdul</td>
+                <td>55</td>
+                <td>USA</td>
+				<td><a href="">Link</a></td>
+				<td><input type="text" id="EditField"></td>
+            </tr>
+        </table>
+    </section>
+
+    <section id="links">
+        <h2>Links</h2>
+        <a href="https://www.google.com" target="_blank">Go to Google</a>
+        <br>
+		<a href="https://www.googly.com" target="_blank">Link 1</a>
+        <br>
+		<a href="https://www.break.com" target="_blank">Link 2</a>
+        <br>
+        <a href="#buttons">Back to Buttons Section</a>
+    </section>
+
+    <section id="image">
+        <h2>Image</h2>
+        <img src="https://media.istockphoto.com/id/1029035836/photo/ai-robot-thinking.jpg?s=612x612&w=0&k=20&c=Lf-nilserdw8BVnHPKtkkSbw7Pcp5p7KI_V9CAlzqQI=" alt="Sample Image1">
+		<br><br>
+		<img src="https://media.istockphoto.com/id/814423752/photo/eye-of-model-with-colorful-art-make-up-close-up.jpg?s=612x612&w=0&k=20&c=l15OdMWjgCKycMMShP8UK94ELVlEGvt7GmB_esHWPYE=" alt="Sample Image2">
+		<br><br>
+		<img src="https://media.istockphoto.com/id/814423752/photo/eye-of-model-with-colorful-artup.jpg?s=612x612&w=0&k=20&c=l15OdMWjgCKycMMShP8UK94ELVlEGvt7GmB_esHWPYE=" alt="Sample Image3">
+    </section>
+	
+	<section id="links">
+	<h2>Upload a File</h2>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label for="fileUpload">Choose file to upload:</label>
+        <input type="file" id="fileUpload" name="fileUpload" required>
+        <br><br>
+        <input type="submit" value="Upload File">
+    </form>
+	</section>
+	
+	<section id = "MouseEvents">
+	<h2>Mouse Clicks - types</h2>
+	<p ondblclick="myFunction()">Double-click me</p>
+	<p id="dbclick-demo"></p>
+	
+	</section>
+
+    <footer>
+        <p>&copy; 2025 Practice Webpage for Selenium Automation</p>
+    </footer>
+	
+	<script>
+		function myFunction() {
+		  document.getElementById("demo").innerHTML += "Hi You performed double-click";
+		}
+	</script>
+</body>
+</html>
