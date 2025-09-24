@@ -1,0 +1,25 @@
+driver_obj.switch_to.
+
+driver.switch_to.alert.accept()
+						.dismiss()
+						.send_keys("basics")
+						
+						
+						
+
+
+driver.window_handles   ->list of window id's
+
+
+
+
+
+#screenshots 
+
+visible portion with webpage			 => save_screenshot()
+
+
+web_element.screenshot()
+						
+						
+						

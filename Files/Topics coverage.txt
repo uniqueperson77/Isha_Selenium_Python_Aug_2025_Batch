@@ -78,13 +78,7 @@ Day22:
 Select
 
 Day23:
-
-
-
-
-
-
-
+switch to alerts
 
 
 
