@@ -80,6 +80,29 @@ Select
 Day23:
 switch to alerts
 
+Day24:
+switch to windows
+switch to iframes
+
+Day25:
+Action Chains
+
+Day26:
+Screenshots
+Keys + Action Chains
+
+Day27:
+calendars
+
+Day28:
+selenium waits
+
+
+
+
+
+
+
 
 
 
