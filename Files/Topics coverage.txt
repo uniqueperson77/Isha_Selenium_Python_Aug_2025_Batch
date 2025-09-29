@@ -70,9 +70,7 @@ browsers - chrome, edge, safari,...
 
 
 Day21:
-
 input box, buttons - radio/checkboxes
-
 
 Day22:
 Select
@@ -97,9 +95,10 @@ calendars
 Day28:
 selenium waits
 
+Day29 & Day30:
+Project sttructure & Demo real-time handson on Redbus application
 
-
-
+Day31:
 
 
 
