@@ -1,0 +1,30 @@
+Pytest
+
+pip install pytest
+pip uninstall pytest
+pip install -U pytest
+
+verbose   -v
+
+-s   (shows print statements in runtime)
+
+-m smoke
+-m regression
+-m sanity
+'''''''''''''''''''''''''''''''''''
+pytest
+pytest -v
+pytest -s 
+pytest -v -s
+
+pytest filepath -v -s
+pytest filepath::test_casename
+
+pytest -m marker_name
+
+'''''''''''''''''''''''''''''''''''
+
+
+pytest.ini
+conftest.py
+pytest html

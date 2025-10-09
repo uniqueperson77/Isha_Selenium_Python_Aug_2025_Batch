@@ -20,7 +20,7 @@ Day6:
 Lists, loops
 
 Day7:
-recap, tuples & hands_on
+recap, tuples & hands-on
 
 Day8:
 dict, sets
@@ -64,8 +64,8 @@ Day20:
 Selenium
 
 pl - python
-selenium - libraray  - installed
-webdriver - 1st way
+selenium - library  - installed
+web driver - 1st way
 browsers - chrome, edge, safari,...
 
 
@@ -96,10 +96,26 @@ Day28:
 selenium waits
 
 Day29 & Day30:
-Project sttructure & Demo real-time handson on Redbus application
+Project structure & Demo real-time hands-on on Redbus application
 
 Day31:
+pytest
 
+Day32:
+pytest revision + few more topics
+
+Day33:
+Q&A session - real time hand-on on the Emirates application; 
+
+
+Day34:
+setup - teardown & parallel testing
+
+Day35:
+Pytest html, git
+
+Day36:
+git, merge conflicts ...
 
 
 

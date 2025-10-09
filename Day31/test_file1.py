@@ -7,6 +7,7 @@ def test_case1():
         print("Expectations not met")
         assert False
 
+
 @pytest.mark.regression
 def testcase2():
     print("TC2 passed")
