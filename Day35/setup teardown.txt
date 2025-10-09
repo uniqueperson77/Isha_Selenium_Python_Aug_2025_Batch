@@ -1,0 +1,12 @@
+setup
+
+teardown
+
+
+open the db connection
+q1
+q2
+q3
+close the db connection
+
+pytest -n 8
