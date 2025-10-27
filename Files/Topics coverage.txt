@@ -118,6 +118,26 @@ Day36:
 git, merge conflicts ...
 
 
+Day37:
+Doubts session
+
+Day38:
+Jenkins Setup & basics
+
+Day39:
+Doubts session
+
+Day40:
+
+
+
+
+
+
+
+
+
+
 
 
 

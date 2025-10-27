@@ -47,3 +47,11 @@ class RedBus:
         num_of_buses = (full_text.split(" buses"))[0]
         print("Number of buses = "+ str(num_of_buses))
         return num_of_buses
+
+
+class RedBus_BusTickets(RedBus):
+    pass
+
+
+class RedBus_RailTickets(RedBus):
+    pass
